@@ -148,12 +148,12 @@ main{
 
 .button-blue{
   background-color: transparent;
-  color: #d78c90;
-  border: 1px solid #d78c90;
+  color: #fff;
+  border: 1px solid #fff;
 }
 
 .button-open:hover{
-  background-color: #dbe7ec ;
+  background-color: #7b9d63 ;
 }
 
 
@@ -167,7 +167,7 @@ main{
 }
 
 .navbar-background{
-  background-color: #d78c90 !important;
+  background-color: #7b9d63 !important;
   color: #a4bcc5;
   box-shadow: 0px -2px 100px rgba(255, 255, 255, 0.5);
 }
@@ -201,7 +201,7 @@ main{
 }
 
 .box-isra p, .box-isra span{
-  color: #d78c90;
+  color: #7b9d63;
 }
 
 #mempelai{
@@ -217,12 +217,13 @@ main{
   width: 8rem;
   display: block;
   height: 4px;
-  background-color: #d78c90;
+  background-color: #fff;
   margin: auto;
 }
 
 .foto-mempelai{
   width: 100%;
+  margin-top: 50px;
 }
 
 .foto-mempelai img{
@@ -245,7 +246,7 @@ main{
   width: 4px;
   display: block;
   height: 4rem;
-  background-color:#d78c90;;
+  background-color:#fff;;
   margin: 0 23px;
 }
 
@@ -654,7 +655,7 @@ svg.wave {
 } */
 
 .box p{
-  color: #d78c90;
+  color: #fff;
   text-align: center;
   /* font-family:Verdana, Geneva, Tahoma, sans-serif; */
   /* font-family: 'Playfair Display', serif; */
@@ -666,12 +667,12 @@ svg.wave {
   width: 100%;
   height: 40px;
   background: transparent;
-  border: #d78c90 1px solid ;
+  border: #fff 1px solid ;
   font-size: 15px;
   /* font-family: 'neutron'; */
   margin-bottom: 20px;
   cursor: pointer;
-  color: #d78c90;
+  color: #fff;
 }
    
 .box button:hover{
@@ -701,7 +702,7 @@ svg.wave {
   font-size: 20px;
   font-family: 'Playfair Display', serif;
   /* font-family: 'Mitr', sans-serif; */
-  color: #d78c90;
+  color: #7b9d63;
 }
 
 .thankyou img{
@@ -712,7 +713,7 @@ svg.wave {
 .thankyou h5{
   text-align: center;
   font-family: 'moontime';
-  color: #d78c90;
+  color: #7b9d63;
   font-size: 65px !important;
   font-weight: 500;
   text-shadow: #fff 0.5px 1px;
@@ -726,13 +727,13 @@ svg.wave {
 .contact-us form input, .contact-us form #message{
   width: 100%;
   height: 100px;
-  /* font-size: 1.0625rem; */
+  font-size: 0.95rem;
   /* background: transparent; */
   background: rgba(193, 193, 193, 0.3);
-  border: 1px solid #d78c90;
-  color: #484848;
+  border: 1px solid #fff;
+  color: #fff;
   /* font-family: 'Josefin Sans',sans-serif; */
-  font-family: 'Playfair Display', serif;
+  /* font-family: 'Playfair Display', serif; */
 }
 
 #name::-webkit-input-placeholder,
@@ -748,7 +749,7 @@ svg.wave {
 
 .contact-us form input:focus,
 .contact-us form #message:focus{
-  outline-color: #d78c90;
+  outline-color: #fff;
 }
 .contact-us form input{
   height: 35px;
@@ -761,7 +762,7 @@ svg.wave {
   height: 40px;
   width: 100%;
   /* border: 1px solid #492f29; */
-  background: #d78c90;
+  background: transparent;
   font-size: 1.0625rem;
   font-weight: 500;
   cursor: pointer;
@@ -776,17 +777,17 @@ svg.wave {
 #presention{
   /* background: transparent; */
   background: rgba(193, 193, 193, 0.3);
-  color: #d78c90;
+  color: #fff;
   width: 100%;
   padding: 10px;
   margin-bottom: 5px;
   font-size: 15px;
-  border: solid 1px #d78c90;
+  border: solid 1px #fff;
 }
 
 #input_button:hover{
   background-color: #dbe7ec;
-  color:#d78c90;
+  color:#7b9d63;
 }
 
 #input_button:active{
@@ -799,7 +800,7 @@ svg.wave {
   display: block;
   overflow: auto;
   overflow-x: hidden;
-  background: rgba(193, 193, 193, 0.3);
+  background: rgba(230, 230, 230, 0.3);
   /* padding-right: 10px; */
   font-family: 'Playfair Display', serif;
   /* border: solid 1px #d78c90; */
@@ -897,7 +898,7 @@ svg.wave {
   width:100%;
   text-align: left;
   padding: 0;
-  color: #d78c90;
+  color: #7b9d63;
 }
 
 #task_title p{
@@ -913,7 +914,7 @@ svg.wave {
   font-size:15px;
   font-weight: bold;
   padding-top: 5px;
-  color: #d78c90;
+  color: #7b9d63;
 }
 
 #task_hadir{
@@ -924,7 +925,7 @@ svg.wave {
   font-size:15px;
   font-weight: bold;
   padding-top: 5px;
-  color: #d78c90;
+  color: #7b9d63;
 }
 
 .protokol-kesehatan {
