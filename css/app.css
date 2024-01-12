@@ -233,6 +233,7 @@ main{
 .detail-acara{
   padding-top: 20px;
   height: max-content;
+  padding-bottom: 85px;
 }
 
 .tanggal-pernikahan{
@@ -301,9 +302,9 @@ main{
 }
 
 .column {
-  -ms-flex: 50%; /* IE10 */
-  flex: 50%;
-  max-width: 50%;
+  -ms-flex: 100%; /* IE10 */
+  flex: 100%;
+  max-width: 100%;
   padding: 0px 2px;
 
 }
@@ -484,9 +485,9 @@ input[type="radio"] {
 
 @media screen and (max-width: 800px) {
   .column {
-    -ms-flex: 50%;
-    flex: 50%;
-    max-width: 50%;
+    -ms-flex: 100%;
+    flex: 100%;
+    max-width: 100%;
   }
 }
 
@@ -1648,7 +1649,7 @@ aside img{
 /*===== Resonsive Vertical Timeline =====*/
 @media only screen and (max-width: 830px) {
   .modal-content{
-    background: url("../assets/images/gallery/cover.jpg");
+    background: url("../assets/images/gallery/1.JPG");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
