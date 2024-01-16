@@ -152,6 +152,17 @@ main{
   border: 1px solid #7b9d63;
 }
 
+.button-blue:hover{
+  background-color: #7b9d63 ;
+  color: #fff;
+  border: #7b9d63 solid 1px;
+}
+
+.data-nomer{
+  color: #7b9d63;
+  background-color: #7b9d63;
+}
+
 .button-open:hover{
   background-color: #7b9d63 ;
 }
@@ -159,7 +170,7 @@ main{
 
 .main-color{
   /* color: #fff9f4; */
-  color: #d78c90;
+  color: #7b9d63;
 }
 
 .white-color{
@@ -739,7 +750,7 @@ svg.wave {
 
 #name::-webkit-input-placeholder,
 #message::-webkit-input-placeholder{
-  color: #d78c90;
+  color: #7b9d63;
   padding-left: 8px;
   font-size: 15px;
 }

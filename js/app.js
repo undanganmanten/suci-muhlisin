@@ -98,11 +98,11 @@ const play = (btn) => {
     if (!isPlay) {
         btn.setAttribute('data-status', 'true');
         audio.play();
-        btn.innerHTML = '<i class="fa-solid fa-circle-pause" style="color:#d78c90"></i>';
+        btn.innerHTML = '<i class="fa-solid fa-circle-pause" style="color:#7b9d63"></i>';
     } else {
         btn.setAttribute('data-status', 'false');
         audio.pause();
-        btn.innerHTML = '<i class="fa-solid fa-circle-play" style="color:#d78c90"></i>';
+        btn.innerHTML = '<i class="fa-solid fa-circle-play" style="color:#7b9d63"></i>';
     }
 };
 
